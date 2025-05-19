@@ -1,0 +1,24 @@
+1. Download Python
+	Download : https://www.python.org/downloads/wind...
+2. Install Python
+	Tick add path
+	Make new folder on D, example: Python38
+	Point install on that folder
+3. Check python and upgrade pip
+	$ python --version
+	$ pip --version
+	$ python -m pip install -–upgrade pip
+4. Install numpy
+	$ pip install numpy
+5. Install opencv
+	$ pip install opencv-python
+6. Check installed opencv
+	$ python
+	$ import cv2
+	$ cv2.__version__
+7. Install pyyaml
+	$ pip install pyyaml
+
+Additional:
+8. Install postgresql library
+	$ pip install psycopg2
